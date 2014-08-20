@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SecurDemo">
+</Property><Property Name="Solution File" Value="C:\home\aei\BD2-proj\secur2\SecurDemo\SecurDemo.sln">
+</Property><Property Name="Date" Value="15 marca 2011">
+</Property><Property Name="Time" Value="14:09">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SecurDemo.sln" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo.sln">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\SecurDemo.csproj" Description="Project file successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\SecurDemo.csproj">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\BizzLogic.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\BizzLogic.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Form1.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Form1.Designer.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Init.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Init.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Program.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Program.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Properties\Settings.settings" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Form1.resx" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\Properties\Resources.resx" Description="File successfully backed up as C:\home\aei\BD2-proj\secur2\SecurDemo\Backup\SecurDemo\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\SecurDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SecurDemo" Source="SecurDemo\SecurDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SecurDemo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SecurDemo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SecurDemo" Source="SecurDemo\SecurDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

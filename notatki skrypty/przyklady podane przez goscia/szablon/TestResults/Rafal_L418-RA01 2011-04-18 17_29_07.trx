@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="26f87286-a267-46e4-9a99-c7312b5abdd5" name="Rafal@L418-RA01 2011-04-18 17:29:07" runUser="L418-RA01\Rafal" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c51b5d76-80b6-496e-afdc-cb380236e036">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="C:\home\aei\BD2-proj\demo\framwrk\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="Rafal_L418-RA01 2011-04-18 17_29_07">
+      <DeploymentItem filename="C:\home\aei\BD2-proj\demo\framwrk\BL\bin\Debug\BL.dll" />
+      <DeploymentItem filename="C:\home\aei\BD2-proj\demo\framwrk\DAC\bin\Debug\DAC.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-04-18T17:29:07.3039183+02:00" queuing="2011-04-18T17:29:07.3079185+02:00" start="2011-04-18T17:29:07.3189191+02:00" finish="2011-04-18T17:29:07.6139360+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetElementTest" storage="c:\home\aei\bd2-proj\demo\framwrk\bltest\bin\debug\bltest.dll" id="261693b5-4725-9a25-4fc1-3b269a1ee382">
+      <Execution id="ff590780-4722-4e0b-87d1-ff4b54e7ad40" />
+      <TestMethod codeBase="C:/home/aei/BD2-proj/demo/framwrk/BLTest/bin/Debug/BLTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BLTest.TblUpdTest, BLTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetElementTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="261693b5-4725-9a25-4fc1-3b269a1ee382" executionId="ff590780-4722-4e0b-87d1-ff4b54e7ad40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ff590780-4722-4e0b-87d1-ff4b54e7ad40" testId="261693b5-4725-9a25-4fc1-3b269a1ee382" testName="GetElementTest" computerName="L418-RA01" duration="00:00:00.0591878" startTime="2011-04-18T17:29:07.3329199+02:00" endTime="2011-04-18T17:29:07.5979351+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff590780-4722-4e0b-87d1-ff4b54e7ad40">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a6dc3c5f-7178-4d47-bfb3-9bf58d525dd1" name="Rafal@L418-RA01 2012-12-07 13:44:35" runUser="L418-RA01\Rafal" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f994a347-0513-4865-be5a-2e7bb4ccde2f">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Rafal_L418-RA01 2012-12-07 13_44_35">
+      <DeploymentItem filename="C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\bin\Debug\BizLay.dll" />
+      <DeploymentItem filename="C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\bin\Debug\DataLay.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-12-07T13:44:35.8987481+01:00" queuing="2012-12-07T13:44:38.2818844+01:00" start="2012-12-07T13:44:38.4028913+01:00" finish="2012-12-07T13:44:41.0610433+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\home\aei\bd1-rybnik\linq\wfalinqproj\testproject1\bin\debug\testproject1.dll" id="59863143-3238-122e-4d8a-637b491cc755">
+      <Execution id="29100bb8-f8d4-4703-83ba-78b91bd1bfa6" />
+      <TestMethod codeBase="C:/home/aei/BD1-rybnik/linq/WFAlinqProj/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="59863143-3238-122e-4d8a-637b491cc755" executionId="29100bb8-f8d4-4703-83ba-78b91bd1bfa6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="29100bb8-f8d4-4703-83ba-78b91bd1bfa6" testId="59863143-3238-122e-4d8a-637b491cc755" testName="TestMethod1" computerName="L418-RA01" duration="00:00:00.4568868" startTime="2012-12-07T13:44:38.4918964+01:00" endTime="2012-12-07T13:44:40.9800387+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29100bb8-f8d4-4703-83ba-78b91bd1bfa6">
+    </UnitTestResult>
+  </Results>
+</TestRun>

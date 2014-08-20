@@ -1,0 +1,26 @@
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\WinFormClient.exe
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\WinFormClient.pdb
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\BL.dll
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\DAC.dll
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\BL.pdb
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\bin\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.Form1.resources
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.Properties.Resources.resources
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.exe
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.pdb
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.Form2.resources
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.csprojResolveAssemblyReference.cache
+C:\home\aei\BD2-proj\demo\framwrk\WinFormClient\obj\x86\Debug\WinFormClient.csproj.GenerateResource.Cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\WinFormClient.exe
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\WinFormClient.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\BL.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\DAC.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\BL.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\bin\Debug\DAC.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.Form1.resources
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.Form2.resources
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.Properties.Resources.resources
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.csproj.GenerateResource.Cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.exe
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\WinFormClient\obj\x86\Debug\WinFormClient.pdb

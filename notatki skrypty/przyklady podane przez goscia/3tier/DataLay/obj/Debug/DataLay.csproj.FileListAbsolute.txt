@@ -1,0 +1,18 @@
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\bin\Debug\DataLay.dll.config
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\bin\Debug\DataLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\bin\Debug\DataLay.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\obj\Debug\ResolveAssemblyReference.cache
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\obj\Debug\DataLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\DataLay\obj\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\DataLay\bin\Debug\DataLay.dll.config
+C:\home\aei\BD2-proj\2014\3tier\DataLay\bin\Debug\DataLay.dll
+C:\home\aei\BD2-proj\2014\3tier\DataLay\bin\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\DataLay\obj\Debug\DataLay.dll
+C:\home\aei\BD2-proj\2014\3tier\DataLay\obj\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\DataLay\obj\Debug\DataLay.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\bin\Debug\DataLay.dll.config
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\bin\Debug\DataLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\bin\Debug\DataLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\obj\Debug\DataLay.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\obj\Debug\DataLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\DataLay\obj\Debug\DataLay.pdb

@@ -1,0 +1,9 @@
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\BLTest.dll
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\BLTest.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\BL.dll
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\DAC.dll
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\BL.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\bin\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\obj\Debug\BLTest.dll
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\obj\Debug\BLTest.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BLTest\obj\Debug\BLTest.csprojResolveAssemblyReference.cache

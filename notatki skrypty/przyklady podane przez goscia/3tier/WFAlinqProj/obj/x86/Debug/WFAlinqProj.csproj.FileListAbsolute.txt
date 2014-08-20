@@ -1,0 +1,37 @@
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\WFAlinqProj.exe
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\WFAlinqProj.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Properties.Resources.resources
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\WFAlinqProj.exe
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\WFAlinqProj.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Form1.resources
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\BizLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\DataLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\BizLay.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\WFAlinqProj\bin\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.exe
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.pdb
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\WFAlinqProj.exe
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\WFAlinqProj.pdb
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\BizLay.dll
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\DataLay.dll
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\BizLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\bin\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.csprojResolveAssemblyReference.cache
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Form1.resources
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Properties.Resources.resources
+C:\home\aei\BD2-proj\2014\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.csproj.GenerateResource.Cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.exe
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\WFAlinqProj.exe
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\WFAlinqProj.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\BizLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\DataLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\BizLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\bin\Debug\DataLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Form1.resources
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Properties.Resources.resources
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.csproj.GenerateResource.Cache

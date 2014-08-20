@@ -1,0 +1,18 @@
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\bin\Debug\DAC.dll.config
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\bin\Debug\DAC.dll
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\bin\Debug\DAC.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\obj\Debug\DAC.dll
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\DAC\obj\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\DAC\bin\Debug\DAC.dll.config
+C:\home\aei\BD2-proj\demo\framwrk\DAC\bin\Debug\DAC.dll
+C:\home\aei\BD2-proj\demo\framwrk\DAC\bin\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\DAC\obj\Debug\DAC.dll
+C:\home\aei\BD2-proj\demo\framwrk\DAC\obj\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\DAC\obj\Debug\DAC.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\bin\Debug\DAC.dll.config
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\bin\Debug\DAC.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\bin\Debug\DAC.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\obj\Debug\DAC.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\obj\Debug\DAC.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\DAC\obj\Debug\DAC.pdb

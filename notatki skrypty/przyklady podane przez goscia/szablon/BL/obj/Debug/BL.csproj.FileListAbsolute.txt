@@ -1,0 +1,21 @@
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\bin\Debug\BL.dll
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\bin\Debug\BL.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\bin\Debug\DAC.dll
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\bin\Debug\DAC.pdb
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\obj\Debug\BL.dll
+C:\Users\Rafal\documents\visual studio 2010\Projects\WindowsFormsApplication1\BL\obj\Debug\BL.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BL\obj\Debug\BL.dll
+C:\home\aei\BD2-proj\demo\framwrk\BL\bin\Debug\BL.dll
+C:\home\aei\BD2-proj\demo\framwrk\BL\bin\Debug\BL.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BL\bin\Debug\DAC.dll
+C:\home\aei\BD2-proj\demo\framwrk\BL\bin\Debug\DAC.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BL\obj\Debug\BL.pdb
+C:\home\aei\BD2-proj\demo\framwrk\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\bin\Debug\BL.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\bin\Debug\BL.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\bin\Debug\DAC.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\bin\Debug\DAC.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\obj\Debug\BL.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\szablon\BL\obj\Debug\BL.pdb

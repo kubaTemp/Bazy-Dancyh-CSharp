@@ -1,0 +1,21 @@
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\bin\Debug\BizLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\bin\Debug\BizLay.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\obj\Debug\ResolveAssemblyReference.cache
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\obj\Debug\BizLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\obj\Debug\BizLay.pdb
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\bin\Debug\DataLay.dll
+C:\home\aei\BD1-rybnik\linq\WFAlinqProj\BizLay\bin\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\BizLay\bin\Debug\BizLay.dll
+C:\home\aei\BD2-proj\2014\3tier\BizLay\bin\Debug\BizLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\BizLay\bin\Debug\DataLay.dll
+C:\home\aei\BD2-proj\2014\3tier\BizLay\bin\Debug\DataLay.pdb
+C:\home\aei\BD2-proj\2014\3tier\BizLay\obj\Debug\BizLay.csprojResolveAssemblyReference.cache
+C:\home\aei\BD2-proj\2014\3tier\BizLay\obj\Debug\BizLay.dll
+C:\home\aei\BD2-proj\2014\3tier\BizLay\obj\Debug\BizLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\bin\Debug\BizLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\bin\Debug\BizLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\bin\Debug\DataLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\bin\Debug\DataLay.pdb
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\obj\Debug\BizLay.csprojResolveAssemblyReference.cache
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\obj\Debug\BizLay.dll
+C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\BizLay\obj\Debug\BizLay.pdb

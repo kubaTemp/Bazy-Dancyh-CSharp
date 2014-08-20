@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="testdb2" Class="DataZPWTDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=L418-RA01\SQLEXPRESS;Initial Catalog=testdb2;Integrated Security=True" SettingsObjectName="DataLay.Properties.Settings" SettingsPropertyName="testdb2ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.pracownicy" Member="pracownicies">
+    <Type Name="pracownicy">
+      <Column Name="NR_PRAC" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PLEC" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="DATA_UR" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NAZWISKO" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NR_ZESP" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Association Name="pracownicy_zespoly" Member="zespolies" ThisKey="NR_PRAC" OtherKey="NR_PRAC_KZ" Type="zespoly" />
+      <Association Name="pracownicy_wyplaty" Member="wyplaties" ThisKey="NR_PRAC" OtherKey="NR_PRAC" Type="wyplaty" />
+      <Association Name="zespoly_pracownicy" Member="zespoly" ThisKey="NR_ZESP" OtherKey="NR_ZESP" Type="zespoly" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tematy" Member="tematies">
+    <Type Name="tematy">
+      <Column Name="NR_TEM" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TEMAT" Type="System.String" DbType="NVarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="DATA_ROZP" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="NR_PRAC_KT" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_TEM_NADRZ" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="tematy_wyplaty" Member="wyplaties" ThisKey="NR_TEM" OtherKey="NR_TEM" Type="wyplaty" />
+    </Type>
+  </Table>
+  <Table Name="dbo.zespoly" Member="zespolies">
+    <Type Name="zespoly">
+      <Column Name="NR_ZESP" Type="System.Int16" DbType="SmallInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NAZWA_ZESP" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NR_PRAC_KZ" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_INST" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Association Name="zespoly_pracownicy" Member="pracownicies" ThisKey="NR_ZESP" OtherKey="NR_ZESP" Type="pracownicy" />
+      <Association Name="pracownicy_zespoly" Member="pracownicy" ThisKey="NR_PRAC_KZ" OtherKey="NR_PRAC" Type="pracownicy" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.wyplaty" Member="wyplaties">
+    <Type Name="wyplaty">
+      <Column Name="NR_PRAC" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_TEM" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DATA_NALICZ" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="KWOTA" Type="System.Decimal" DbType="Decimal(10,1) NOT NULL" CanBeNull="false" />
+      <Association Name="pracownicy_wyplaty" Member="pracownicy" ThisKey="NR_PRAC" OtherKey="NR_PRAC" Type="pracownicy" IsForeignKey="true" />
+      <Association Name="tematy_wyplaty" Member="tematy" ThisKey="NR_TEM" OtherKey="NR_TEM" Type="tematy" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.studenci" Member="studencis">
+    <Type Name="studenci">
+      <Column Name="NR_STUD" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+      <Column Name="NAZWISKO" Type="System.String" DbType="Char(20) NOT NULL" CanBeNull="false" />
+      <Column Name="DATA_UR" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="PLEC" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="NR_KIER" Type="System.Int16" DbType="SmallInt NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.przydzialy" Member="przydzialies">
+    <Type Name="przydzialy">
+      <Column Name="NR_PRAC" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="NR_TEM" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="KOD_FUNKCJI" Type="System.String" DbType="Char(3) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

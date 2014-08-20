@@ -1,0 +1,20 @@
+CREATE TABLE GR_OPER ( 
+	oper_name varchar(50) NOT NULL,
+	gr_name varchar(50) NOT NULL
+)
+;
+
+ALTER TABLE GR_OPER ADD CONSTRAINT PK_GR_OPER 
+	PRIMARY KEY CLUSTERED (oper_name, gr_name)
+;
+
+ALTER TABLE GR_OPER ADD CONSTRAINT FK_gr_name 
+	FOREIGN KEY (gr_name) REFERENCES GROUP (gr_name)
+;
+
+ALTER TABLE GR_OPER ADD CONSTRAINT FK_oper_name 
+	FOREIGN KEY (oper_name) REFERENCES OPERATION (oper_name)
+;
+
+
+
