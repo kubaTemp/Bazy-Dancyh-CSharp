@@ -1,0 +1,5 @@
+﻿ALTER TABLE OPERATION
+	ADD CONSTRAINT UQ_OPERATION_oper_name UNIQUE (oper_name)
+;
+
+
