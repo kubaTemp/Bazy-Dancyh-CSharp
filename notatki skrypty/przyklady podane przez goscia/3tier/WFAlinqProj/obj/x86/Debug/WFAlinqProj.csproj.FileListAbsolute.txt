@@ -35,3 +35,5 @@ C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x
 C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Form1.resources
 C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.Properties.Resources.resources
 C:\Dysk Google\Semestr6\BD\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.csproj.GenerateResource.Cache
+D:\git\Bazy-Dancyh-CSharp\notatki skrypty\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.exe
+D:\git\Bazy-Dancyh-CSharp\notatki skrypty\przyklady podane przez goscia\3tier\WFAlinqProj\obj\x86\Debug\WFAlinqProj.pdb
